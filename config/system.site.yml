@@ -1,0 +1,14 @@
+uuid: 3e014d3f-367e-4393-8f1d-f088b42d5ed0
+name: bt-test-040819-gl-1
+mail: bthompson@mindgrub.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
